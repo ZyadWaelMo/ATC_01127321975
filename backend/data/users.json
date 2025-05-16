@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Zyad",
+      "email": "zyadwaelmo@gmail.com",
+      "password": "zyad123",
+      "isAdmin": true,
+      "bookings": [
+        "be7e8d65-4bb8-407f-8301-26000eaa1754",
+        "1",
+        "7b2bee02-faf0-4001-9a25-3941906a7d8e"
+      ]
+    },
+    {
+      "id": "49dc0794-1d29-46c3-a7a5-6e89246ec590",
+      "name": "Bassem",
+      "email": "bassem@user.com",
+      "password": "bassem123",
+      "isAdmin": false,
+      "bookings": [
+        "3"
+      ]
+    }
+  ]
+}

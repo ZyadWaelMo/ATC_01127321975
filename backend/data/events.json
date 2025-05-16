@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Ainshams University Event 2025",
+      "category": "Education",
+      "description": "This is your time to shine—step out, get involved, and make the most of every opportunity!",
+      "date": "2025-05-17",
+      "venue": "Ainshams University",
+      "price": 50,
+      "imageUrl": "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "2",
+      "name": "Cairo University Event 2025",
+      "category": "Education",
+      "description": "Every small step you take today brings you closer to the future you dream of",
+      "date": "2025-05-18",
+      "venue": "Cairo University",
+      "price": 45,
+      "imageUrl": "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "3",
+      "name": "Helwan University Event 2025",
+      "category": "Education",
+      "description": "Together, let's create memories, build connections, and grow beyond the classroom",
+      "date": "2025-05-19",
+      "venue": "Helwan University",
+      "price": 40,
+      "imageUrl": "https://images.pexels.com/photos/7683750/pexels-photo-7683750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "4",
+      "name": "AUC Technology Event ",
+      "category": "Technology",
+      "description": "Innovation begins with curiosity—explore, experiment, and let your ideas shape the future",
+      "date": "2025-05-20",
+      "venue": "AUC University",
+      "price": 100,
+      "imageUrl": "https://images.pexels.com/photos/1251861/pexels-photo-1251861.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "5",
+      "name": "GUC Technology Event ",
+      "category": "Technology",
+      "description": "Tech is not just about code—it's about solving real problems and making lives better. Be bold",
+      "date": "2025-05-21",
+      "venue": "GUC University",
+      "price": 135,
+      "imageUrl": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "6",
+      "name": "Tech Conference",
+      "category": "Technology",
+      "description": "Explore cutting-edge innovations and network with tech leaders",
+      "date": "2025-05-22",
+      "venue": "Cairo",
+      "price": 200,
+      "imageUrl": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "7",
+      "name": "Art Gallery Opening",
+      "category": "Art",
+      "description": "Discover contemporary artworks by emerging artists",
+      "date": "2025-05-23",
+      "venue": "City Art Gallery",
+      "price": 180,
+      "imageUrl": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "8",
+      "name": "Food Truck Rally",
+      "category": "Food",
+      "description": "Savor diverse cuisines from local food trucks",
+      "date": "2025-05-24",
+      "venue": "Downtown Square",
+      "price": 60,
+      "imageUrl": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "9",
+      "name": "Marathon Charity Run",
+      "category": "Sports",
+      "description": "Run for a cause and support local charities",
+      "date": "2025-05-25",
+      "venue": "City Stadium",
+      "price": 0,
+      "imageUrl": "https://images.pexels.com/photos/1555354/pexels-photo-1555354.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "10",
+      "name": "Theater Premiere",
+      "category": "Theater",
+      "description": "Experience a new critically acclaimed play",
+      "date": "2025-05-26",
+      "venue": "Grand Theater",
+      "price": 90,
+      "imageUrl": "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
